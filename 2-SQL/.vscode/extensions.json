@@ -1,9 +1,0 @@
-{
-    "recommendations": [
-        "hediet.vscode-drawio",
-        "ms-azuretools.vscode-docker",
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-        "mechatroner.rainbow-csv"
-    ]
-}
